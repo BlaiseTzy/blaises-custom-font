@@ -6,5 +6,8 @@ this font features **my own handwriting**, which is very neat, and clean. i orig
 # creation
 this font was created purely through my own handwriting. as of today, it currently supports all **uppercase and lowercase** characters, **normal, subscript and superscript numbers**, and a bit more.
 
+Q: will the font support more characters? 
+likely, but it's still a work in progress, and it's quite recent.
+
 ### licensing
 this github and the following .ttf file is licensed by the **SIL OFL v1.1 license**. you may use, study, and redistribute the font file, with credits to the author/creator of the font.
